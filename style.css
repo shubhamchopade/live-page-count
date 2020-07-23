@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+
+.parent {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+#counter{
+  font-size: 200px;
+  display: block;
+}
